@@ -1,0 +1,13 @@
+{
+  "name": "type.js",
+  "version": "0.0.1",
+  "description": "a js library for create type effect",
+  "keywords": [
+    "JavaScript",
+    "library",
+    "type",
+    "effect"
+  ],
+  "author": "MotahharMokfi <motahharmokfi@gmail.com>",
+  "license": "MIT"
+}
